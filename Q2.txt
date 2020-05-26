@@ -12,8 +12,6 @@ using namespace std;
 
 int main() {
 
- 
-
    //one statement with one stream insertion operator
    cout << "1 2 3 4\n";
 
