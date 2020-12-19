@@ -1,4 +1,4 @@
-/*Nadezda Tsygankova*/
+
 
 /*Write a program that inputs three integers 
 from the keyboard and prints the sum, 
