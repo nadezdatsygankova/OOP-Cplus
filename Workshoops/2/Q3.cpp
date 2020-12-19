@@ -1,4 +1,4 @@
-/*Nadezda Tsygankova*/
+
 
 /*Write a program that asks the user to enter two integers,
 obtains the numbers from the user, then prints the larger number
